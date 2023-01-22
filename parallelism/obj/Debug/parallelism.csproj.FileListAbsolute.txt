@@ -1,0 +1,8 @@
+C:\Users\achiy\source\repos\parallelism\parallelism\bin\Debug\parallelism.exe.config
+C:\Users\achiy\source\repos\parallelism\parallelism\bin\Debug\parallelism.exe
+C:\Users\achiy\source\repos\parallelism\parallelism\bin\Debug\parallelism.pdb
+C:\Users\achiy\source\repos\parallelism\parallelism\obj\Debug\parallelism.csproj.AssemblyReference.cache
+C:\Users\achiy\source\repos\parallelism\parallelism\obj\Debug\parallelism.csproj.SuggestedBindingRedirects.cache
+C:\Users\achiy\source\repos\parallelism\parallelism\obj\Debug\parallelism.csproj.CoreCompileInputs.cache
+C:\Users\achiy\source\repos\parallelism\parallelism\obj\Debug\parallelism.exe
+C:\Users\achiy\source\repos\parallelism\parallelism\obj\Debug\parallelism.pdb
